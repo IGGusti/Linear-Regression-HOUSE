@@ -1,0 +1,4 @@
+# Linear-Regression-HOUSE
+Project of Machine Learning
+
+Make house price predictions based on available features. The stages include: importing all library needs, loading datasets and displaying data contents, preprocessing data, visualizing data, breaking data into testing and training, training machine learning models, testing model results, and evaluating performance. The dataset was taken from Jonasyao, Machine Learning Specialization University of Washington. The conclusion is the best prediction can be taken from the price of the building with the number of bathrooms, because it has the smallest number of errors. Mean absolute error price & bathrooms: 0.52, Mean absolute error price & condition: 0.61, Mean absolute error price & bedrooms: 0.67, Mean absolute error price & yr_built: 22.82.
